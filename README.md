@@ -1,3 +1,3 @@
 # eucapacito
 
-[img] https://docs.microsoft.com/pt-br/learn/achievements/learn-windows.introduction-to-web-development.badge?username=MariannaMagno-2660
+![Preview] https://docs.microsoft.com/pt-br/learn/achievements/learn-windows.introduction-to-web-development.badge?username=MariannaMagno-2660
